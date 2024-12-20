@@ -236,34 +236,62 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
+      - name: Cloud
+        description: GCP and AWS
+        percent: 90
+        icon: cloud
+      - name: HTTP
+        description: Web stack and architectures
+        percent: 85
+        icon: sitemap
+      - name: Automation
+        description: Infra-as-code (Terraform/Ansible/Puppet), Python, bash
         percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
+        icon: cog
+      - name: Virtualization orchestrator
+        description: Kubernetes and Openstack
+        percent: 75
+        icon: server
+      - name: Databases
+        description: PostgreSQL and MySQL
+        percent: 70
+        icon: database
+      - name: Security
+        description: ISO/PCI DSS environments
+        percent: 65
+        icon: shield-alt
+      - name: Network
+        description: Firewalls (Cisco, pf, netfilter), VPN, good knowledge of general networking
+        percent: 60
+        icon: network-wired
+      - name: Misc
+        description: DNS, Mail, Queue, Cache services
+        percent: 55
+        icon: random
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Free, Open-Source, Libre Software
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        percent: 90
+        icon: code-branch
+      - name: Electro/Hardcore/Gabber music
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: 70
+        icon: music
+      - name: Running
+        description: ''
+        percent: 75
+        icon: running
+      - name: Craft beers and vegetarian food
+        description: ''
+        percent: 85
+        icon: beer
+      - name: Video games
         description: ''
         percent: 80
-        icon: camera
+        icon: gamepad
 
 languages:
   - name: French
