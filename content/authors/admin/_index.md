@@ -30,14 +30,14 @@ profiles:
   - icon: at-symbol
     url: 'mailto:cv@rawool.net'
     label: E-mail Me
-  - icon: brands/bluesky
-    url: https://bluesky.com/rawool.maroill.es
   - icon: brands/github
     url: https://github.com/rawool
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jonathan-vercoutre-b44738191/
   - icon: brands/instagram
     url: https://www.instagram.com/___rawool
+  - icon: brands/bluesky
+    url: https://bsky.app/profile/rawool.maroill.es
 
 education:
   - area: BSc in Computer Science (DA2I)
@@ -51,7 +51,7 @@ education:
       The last three months were spent as an intern in a software company.
     button:
       text: 'Course presentation'
-      url: 'https://da2i.univ-lille1.fr'
+      url: 'https://da2i.univ-lille.fr'
   - area: DUT (two years degreee) in Computer Science
     institution: Université du Littoral Cote d'Opale - Calais
     date_start: 2006-07-01
