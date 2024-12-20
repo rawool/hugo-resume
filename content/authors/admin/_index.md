@@ -66,28 +66,170 @@ education:
     date_end: 2000-09-01
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Senior Site Reliability Engineer
+    company_name: Shine
+    company_url: 'https://www.shine.fr'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-11-06
     date_end: ''
     summary: |2-
+      Was the first Site Reliability Engineer when the Platform team was created. We are now a 12 people team that manages infrastructure (mostly cloud based), security, data and developer experience.
+
+      All our work is based on Terraform, GCP, CloudFlare, Datadog, and Python.
+
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Management of the whole Alma infrastructure in GCP: containers (K8S and serverless), queues, databases, load-balancers, etc.
+      - Migration from Python scripts to Terraform to manage infrastructure resources
+      - Security and compliance: hardening, isolation, several different mTLS setups with internal CAs, CloudFlare (tunnels, rules, workers, access, LB), etc.
+      - Python scripting
+      - Automation via GitHub Actions
+      - Monitoring with Datadog (in Terraform): logs, metrics, dashboards.
+      - On-call Level 2
+
+  - position: Site Reliability Engineer
+    company_name: Alma
+    company_url: 'https://www.getalma.eu'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
+    date_start: 2021-06-07
+    date_end: ''
+    summary: |2-
+      Was the first Site Reliability Engineer when the Platform team was created. We are now a 12 people team that manages infrastructure (mostly cloud based), security, data and developer experience.
+
+      All our work is based on Terraform, GCP, CloudFlare, Datadog, and Python.
+
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Management of the whole Alma infrastructure in GCP: containers (K8S and serverless), queues, databases, load-balancers, etc.
+      - Migration from Python scripts to Terraform to manage infrastructure resources
+      - Security and compliance: hardening, isolation, several different mTLS setups with internal CAs, CloudFlare (tunnels, rules, workers, access, LB), etc.
+      - Python scripting
+      - Automation via GitHub Actions
+      - Monitoring with Datadog (in Terraform): logs, metrics, dashboards.
+      - On-call Level 2
+
+  - position: System Administrator
+    company_name: Entr'ouvert
+    company_url: 'https://www.entrouvert.com'
+    company_logo: ''
+    date_start: 2021-03-22
+    date_end: 2021-05-31
+    summary: |2-
+      Responsibilities include:
+      - Management of web, mail, and DNS hosting services
+      - Security and compliance
+      - Automation and scripting
+      - Monitoring and on-call support
+
+  - position: Devops Engineer (Data)
+    company_name: PeopleDoc / UKG
+    company_url: 'https://www.people-doc.com'
+    company_logo: ''
+    date_start: 2019-10-03
+    date_end: 2021-03-12
+    summary: |2-
+      Was the first peep of a three people team responsible for creating the first internal data warehouse and being the link between DBA, SRE and BI teams.
+
+      All our work was based on Ansible, Airflow and Python.
+
+      Responsibilities include:
+      - Management of the BI servers (batch processing, Looker data exploration platforms, Airflow platforms)
+      - Technical contact for infrastructure questions for BI analysts and Data engineers
+      - Python scripting
+      - Debian packaging
+      - Python packaging
+      - Automation via Ansible and Jenkins
+      - Monitoring with Prometheus and Datadog
+
+  - position: Site Reliability Engineer
+    company_name: PeopleDoc
+    company_url: 'https://www.people-doc.com'
+    company_logo: ''
+    date_start: 2018-01-08
+    date_end: 2019-10-03
+    summary: |2-
+      Was part of team (5 people) responsible for the whole PeopleDoc infrastructure.
+
+      Our work was very Ansible and Openstack centric and required a solid knowledge of the whole PeopleDoc systems.
+
+      Responsibilities include:
+      - Management of the whole PeopleDoc apps infrastructure servers hosted on Openstack clusters
+      - Management of public load-balancers, public and internal load-balancers and core services
+      - Automation via Ansible and Openstack Heat
+      - Security, services hardening
+      - Monitoring with Prometheus
+
+  - position: Devops Engineer
+    company_name: OVH
+    company_url: 'https://www.ovh.com'
+    company_logo: ''
+    date_start: 2015-06-01
+    date_end: 2018-01-01
+    summary: |2-
+      Was part of team (5 people) responsible for the core services of OVH. We inherited an old and unmaintained infrastructure and our mission was to make it stable, homogeneous and scalable.
+
+      Our second mission was to maintain PCIDSS-ready infrastructures with the highest PCIDSS compliance level.
+
+      Responsibilities include:
+      - Management of the internal information systems; public web servers (front & API), databases, tasks workers, load balancers and many more (1K servers)
+      - Management of the PCIDSS certified information systems for Private Cloud Computing service
+      - Management of the PCIDSS internal certified payment system
+      - Management of the corporate bastion hosts
+      - Migration of old and unmaintained services to standard and hardened platforms
+      - Automation, configuration management, scripting with Puppet
+      - Security
+      - Monitoring with Shinken
+      - Level 2/3 On-call
+
+  - position: System Administrator
+    company_name: ISVTEC
+    company_url: 'https://www.isvtec.com'
+    company_logo: ''
+    date_start: 2012-09-01
+    date_end: 2015-05-01
+    summary: |2-
+      Responsibilities include:
+      - Management of web, mail, SQL and DNS services on customer servers (300 servers)
+      - Mail and web sites migrations without downtime
+      - Services migration to scalable and fault-tolerant systems
+      - Level 1 On-call
+
+  - position: System Administrator
+    company_name: ICE Development
+    company_url: 'https://www.ice-dev.com'
+    company_logo: ''
+    date_start: 2011-09-01
+    date_end: 2012-09-01
+    summary: |2-
+      Responsibilities include:
+      - Management of web, mail and DNS hosting services
+      - Management of firewalls and networks
+      - Web sites and mail migrations
+      - Datacenter operations
+      - Security
+      - Helpdesk
+      - Level 1 On-call
+
+  - position: IT Consultant
+    company_name: Astek
+    company_url: 'https://www.astekgroupe.fr'
+    company_logo: ''
+    date_start: 2011-02-01
+    date_end: 2011-09-01
+    summary: |2-
+      Responsibilities include:
+      - Maintain, repair and operations of several Unix systems
+      - Unix team specialist
+
+  - position: System and Database Administrator
+    company_name: Acteos
+    company_url: 'https://www.acteos.com'
+    company_logo: ''
+    date_start: 2007-04-01
+    date_end: 2011-01-01
+    summary: |2-
+      Responsibilities include:
+      - Management of internal infrastructure mainly Oracle DB and Oracle AS (70 servers)
+      - Installations and migrations of Acteos products on-premise
+      - Level 3 support
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
