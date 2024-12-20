@@ -91,7 +91,7 @@ work:
     company_url: 'https://www.getalma.eu'
     company_logo: ''
     date_start: 2021-06-07
-    date_end: ''
+    date_end: '2023-09-30'
     summary: |2-
       Was the first Site Reliability Engineer when the Platform team was created. We are now a 12 people team that manages infrastructure (mostly cloud based), security, data and developer experience.
 
