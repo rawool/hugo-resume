@@ -132,4 +132,10 @@ languages:
     percent: 25
 
 ---
-I'm available for hire as a remote worker.
+Hi, I’m Jonathan, I’m 38 years old, I live in Lille, France and I spend my days playing Lego with software at Alma.
+
+I’m some kind of a multi-tool, tried, deployed and maintained lots of differents infrastructures and services. Since the beginning of my career, I work around the web and acquired solid experiences around HTTP with high traffic websites. I embrace the KISS philosophy and standardization, I try to enforce them in my day-to-day work. I love UNIX.
+
+Bleeding edge technologies are not a priority for me, I just want infrastructures that keep the peace of mind of everyone (me included). Nonetheless, I’m still in a "learn everyday" mindset and am eager to adopt a new toy to make my infrastructures rock solid.
+
+I’m available for hire as a remote worker.
