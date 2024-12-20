@@ -69,7 +69,7 @@ work:
   - position: Senior Site Reliability Engineer
     company_name: Shine
     company_url: 'https://www.shine.fr'
-    company_logo: 'https://play-lh.googleusercontent.com/etlO5aH_84-af62ts6shdWkVQ7NDmvCUQenSSuyIoHWbh2Ub7v9kUfRiEyXkRJGJbA=w240-h480-rw'
+    company_logo: ''
     date_start: 2023-11-06
     date_end: ''
     summary: |2-
