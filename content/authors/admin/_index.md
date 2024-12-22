@@ -49,9 +49,6 @@ education:
       (J2EE, servlets, and JSP) for development, and handled various Unix services like DNS, HTTP,
       RDBMS, and security on the administration side.
       I wrapped up this specialization with a three-month internship at a software company.
-    button:
-      text: 'Course presentation'
-      url: 'https://da2i.univ-lille.fr'
   - area: DUT (two years degreee) in Computer Science
     institution: Université du Littoral Cote d'Opale - Calais
     date_start: 2006-07-01
@@ -306,7 +303,7 @@ skills:
         icon: piano
 
 languages:
-  - name: Frenc.h
+  - name: French
     percent: 100
   - name: English
     percent: 90
