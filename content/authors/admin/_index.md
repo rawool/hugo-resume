@@ -33,7 +33,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/rawool
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/jonathan-vercoutre-b44738191/
+    url: https://www.linkedin.com/in/raw00l
   - icon: brands/instagram
     url: https://www.instagram.com/___rawool
   - icon: brands/bluesky
